@@ -1,0 +1,6 @@
+com\eli\springbootbeetlsqldemo\dao\UserDao.class
+com\eli\springbootbeetlsqldemo\Application.class
+com\eli\springbootbeetlsqldemo\gernate\BeetlGenCode.class
+com\eli\springbootbeetlsqldemo\config\DataSourceConfig.class
+com\eli\springbootbeetlsqldemo\bean\User.class
+com\eli\springbootbeetlsqldemo\Application$TestController.class
